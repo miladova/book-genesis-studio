@@ -50,3 +50,7 @@ AppData/
 **/AppData/
 **/Chrome/User Data/
 **/Google/Chrome/User Data/
+
+# Novel workspace: bible and build stay private; manuscript is published for the reader
+novel/bible/
+novel/build/
